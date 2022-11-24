@@ -28,3 +28,4 @@ for i in range(cantidad):
 print(conta)   
 print(maquina)      
 
+print("")
